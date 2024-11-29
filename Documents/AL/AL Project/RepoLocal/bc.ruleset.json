@@ -1,0 +1,41 @@
+{
+    "name": "Evotec Ruleset",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "Tooltips not necessary."
+        },
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "Not necessary searchable report."
+        },
+        {
+            "id": "AA0074",
+            "action": "None",
+            "justification": "Suffix not necessary."
+        },
+        {
+            "id": "AL0432",
+            "action": "None",
+            "justification": "Marked removal."
+        },
+        {
+            "id": "AA0217",
+            "action": "None",
+            "justification": "textconstant for strsubstno."
+        },
+        {
+            "id": "AA0470",
+            "action": "None",
+            "justification": "placeholders comment."
+        },
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "File Name"
+        }
+    ]
+}
