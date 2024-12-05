@@ -1,0 +1,10 @@
+app.json
+.alpackages/Microsoft_Application_25.1.25873.26186.app
+.alpackages/Microsoft_Base Application_25.1.25873.26550.app
+.alpackages/Microsoft_Business Foundation_25.1.25873.26186.app
+.alpackages/Microsoft_System Application_25.1.25873.26186.app
+.alpackages/Microsoft_System_25.0.25866.0.app
+.vscode/launch.json
+
+.vscode/*.json
+*.app
